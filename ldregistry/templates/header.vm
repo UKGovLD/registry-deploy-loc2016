@@ -1,4 +1,4 @@
-#set($uiroot="$root/ui")
+#set($uiroot="/registry/ui")
 <!DOCTYPE html>
 <html>
   <head>
