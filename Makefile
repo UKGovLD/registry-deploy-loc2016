@@ -1,8 +1,8 @@
 # build and push docker image to LDS ECR repository
 # Override verisons by setting variables (environment or make command line):
-#    REGISTRY_VERSION (default 2.3.1)
+#    REGISTRY_VERSION (default 2.3.3)
 
-REGISTRY_VERSION?=2.3.1
+REGISTRY_VERSION?=2.3.3
 REPO?=853478862498.dkr.ecr.eu-west-1.amazonaws.com
 IMAGE?=epimorphics/loc-registry
 
