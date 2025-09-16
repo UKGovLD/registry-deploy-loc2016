@@ -1,5 +1,7 @@
 # registry-deploy-loc2016
 
+**Deprecated.** The Location registry is long retired and this configuration is not supported.
+
 This is a customization of registry-config-base for the 2016 release of the Defra Location registry.
 
 Should set upstream to enable changes to be pulled in:
